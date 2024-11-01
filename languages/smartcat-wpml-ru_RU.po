@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: admin/partials/smartcat-integration-hub-admin-display.php:79
+msgid "Security"
+msgstr "Безопасность"
+
+#: admin/partials/smartcat-integration-hub-admin-display.php:81
+msgid "This is necessary to protect against external access."
+msgstr "Создайте секретный ключ для обеспечения безопасного соединения между сайтом и Smartcat."
+
+#: admin/partials/smartcat-integration-hub-admin-display.php:86
+msgid "Secret key"
+msgstr "Секретный ключ"
+
+#: admin/partials/smartcat-integration-hub-admin-display.php:96
+msgid "Generate"
+msgstr "Сгенерировать"
+
+#: admin/partials/smartcat-integration-hub-admin-display.php:99
+msgid "Save"
+msgstr "Сохранить"
+
+#: Plugin Description
+msgid "Smartcat Integration Add-on allows you to synchronize your site content for localization with Smartcat"
+msgstr "Smartcat Integration Add-on позволяет синхронизировать контент вашего сайта для локализации со Smartcat"
+
+#: Plugin settings link label
+msgid "Settings"
+msgstr "Настройки"
+
+#: admin/smartcat-integration-add-on-admin.php:121
+msgid "WPML plugin is not installed or activated. Smartcat Integration Add-on is not active"
+msgstr "Плагин WPML не установлен или не активирован. Smartcat Integration Add-on не активен"
+
+#: admin/smartcat-integration-add-on-admin.php:130
+msgid ""
+"The site uses simple links without a Friendly URL. Activate Friendly URL for Smartcat Integration Add-on to work "
+"correctly. <a href='https://wordpress.org/support/article/using-permalinks/' target='_blank'>More</a>"
+msgstr ""
+"На сайте отключена поддержка ЧПУ (Человекопонятный URL). Активируйте его для корректной работы Smartcat Integration Add-"
+"on. <a href='https://wordpress.org/support/article/using-permalinks/' target='_blank'>Подробнее</a>"
+
+#: admin/partials/smartcat-integration-hub-admin-display.php:120
+msgid ""
+"<a href='https://help.smartcat.com/hc/en-us/articles/4405414189330' target='_blank'>Follow this link</a> to view the "
+"instructions on how to set up the integration."
+msgstr ""
+"Перейдите <a href='https://help.smartcat.com/hc/en-us/articles/4405414189330' target='_blank'>по этой ссылке</a>, чтобы "
+"посмотреть инструкцию по настройке интеграции."
+
+#: admin/partials/smartcat-wpml-display.php:84
+msgid "Include Advanced Custom Fields (ACF)"
+msgstr "Переводить Advanced Custom Fields (ACF)"
+
+#: admin/partials/smartcat-wpml-display.php:84
+msgid "Enable this option if you use ACF in your WordPress site and want to translate them too."
+msgstr "Включите эту опцию, чтобы переводить поля, созданные с помощью плагина “Advanced Custom Fields”."
+
+#: admin/partials/smartcat-wpml-display.php:84
+msgid "Smartcat authentication"
+msgstr "Аутентификация в Smartcat"
+
+#: admin/partials/smartcat-wpml-display.php:84
+msgid "Log out"
+msgstr "Сбросить аккаунт"
+
+#: admin/partials/smartcat-wpml-display.php:84
+msgid "To manage translations from the sidebar in the editor, you need to log in to your Smartcat account"
+msgstr "Чтобы создать интеграцию со Smartcat, используя метабоксы ваших сообщений, вам необходимо аутентифицировать плагин"
+
+msgid "Log in to Smartcat"
+msgstr "Авторизироваться в Smartcat"
+
+msgid "Source language"
+msgstr "Язык оригинала"
+
+msgid "Target languages"
+msgstr "Языки перевода"
+
+msgid "Deadline"
+msgstr "Дедлайн"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Smartcat project"
+msgstr "Проект в Smartcat"
+
+msgid "Translation request"
+msgstr "Запрос на перевод"
+
+msgid "Translate selected posts"
+msgstr "Перевести выбранные статьи"
+
+msgid "Selected posts"
+msgstr "Выбранные  посты"
+
+msgid "Send to Smartcat"
+msgstr "Отправить в Smartcat"
+
+msgid "Sent"
+msgstr "Отправлено"
+
+msgid "In progress"
+msgstr "В процессе"
+
+msgid "Completed"
+msgstr "Завершено"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Get translations"
+msgstr "Получить переводы"
+
+msgid "Delete translation request"
+msgstr "Удалить запрос на перевод"
+
+msgid "Translation requests"
+msgstr "Запросы на перевод"
+
+msgid "Create translation request"
+msgstr "Создать запрос на перевод"
+
+msgid "Create new translation request"
+msgstr "Создать новый запрос на перевод"
+
+msgid "Translation requests dashboard"
+msgstr "Список запросов на перевод"
